@@ -1,0 +1,121 @@
+Industry,ticker,company,Market Cap,Market Cap2,Marker Cap
+Helathcare,LLY,Eli Lilly and Company,647.35B,6.4735E+11,Large
+Helathcare,JNJ,Johnson & Johnson,368.32B,3.6832E+11,Large
+Helathcare,UNH,UnitedHealth Group Incorporated,268.95B,2.6895E+11,Large
+Helathcare,CI,The Cigna Group,82.99B,82990000000,Large
+Helathcare,EW,Edwards Lifesciences Corporation,45.22B,45220000000,Large
+Helathcare,COO,"The Cooper Companies, Inc.",16.00B,16000000000,Large
+Helathcare,WBA,"Walgreens Boots Alliance, Inc.",9.67B,9670000000,Medium
+Helathcare,HAE,Haemonetics Corporation,3.27B,3270000000,Medium
+Helathcare,HROW,"Harrow, Inc.",983.18M,983180000,Small
+Helathcare,CYBN,Cybin Inc.,171.65M,171650000,Small
+Financials,BRK.B,Berkshire Hathaway Inc.,"1,085.46B",1.08546E+12,Large
+Financials,BAC,Bank of America Corporation,332.31B,3.3231E+11,Large
+Financials,JPM,JPMorgan Chase & Co.,733.13B,7.3313E+11,Large
+Financials,BLK,"BlackRock, Inc.",150.91B,1.5091E+11,Large
+Financials,ALL,The Allstate Corporation,54.54B,54540000000,Large
+Financials,AFL,Aflac Incorporated,55.52B,55520000000,Large
+Financials,STT,State Street Corporation,27.60B,27600000000,Large
+Financials,AXS,AXIS Capital Holdings Limited,8.06B,8060000000,Medium
+Financials,SIGI,"Selective Insurance Group, Inc.",5.32B,5320000000,Medium
+Financials,HCI,"HCI Group, Inc.",1.87B,1870000000,Small
+Financials,ASA,ASA Gold and Precious Metals Limited,595.70M,595700000,Small
+Tech,MSFT,Microsoft Corporation,"3,407.67B",3.40767E+12,Large
+Tech,AAPL,Apple Inc.,"2,978.80B",2.9788E+12,Large
+Tech,PLTR,Palantir Technologies Inc.,290.84B,2.9084E+11,Large
+Tech,UBER,"Uber Technologies, Inc.",176.03B,1.7603E+11,Large
+Tech,SHOP,Shopify Inc.,139.92B,1.3992E+11,Large
+Tech,TEAM,Atlassian Corporation,53.91B,53910000000,Large
+Tech,TOST,"Toast, Inc.",24.40B,24400000000,Large
+Tech,HPQ,HP Inc.,23.66B,23660000000,Large
+Tech,ON,ON Semiconductor Corporation,17.94B,17940000000,Large
+Tech,SLAB,Silicon Laboratories Inc.,4.00B,4000000000,Medium
+Tech,AI,"C3.ai, Inc.",3.78B,3780000000,Medium
+Tech,CSIQ,Canadian Solar Inc.,685.69M,685690000,Small
+Industrials,GE,General Electric Company,260.09B,2.6009E+11,Large
+Industrials,DE,Deere & Company,137.05B,1.3705E+11,Large
+Industrials,DAL,"Delta Air Lines, Inc.",31.69B,31690000000,Large
+Industrials,CLH,"Clean Harbors, Inc.",12.06B,12060000000,Large
+Industrials,AOS,A. O. Smith Corporation,9.19B,9190000000,Medium
+Industrials,ROAD,"Construction Partners, Inc.",5.82B,5820000000,Medium
+Industrials,BRC,Brady Corporation,3.31B,3310000000,Medium
+Industrials,AIR,AAR Corp.,2.21B,2210000000,Medium
+Industrials,GOGL,Golden Ocean Group Limited,1.48B,1480000000,Small
+Industrials,CCEC,Capital Clean Energy Carriers Corp.,1.36B,1360000000,Small
+Industrials,UP,Wheels Up Experience Inc.,887.57M,887570000,Small
+Consumer Discretionary,AMZN,"Amazon.com, Inc.","2,180.28B",2.18028E+12,Large
+Consumer Discretionary,TSLA,"Tesla, Inc.","1,154.52B",1.15452E+12,Large
+Consumer Discretionary,MCD,McDonald's Corporation,222.63B,2.2263E+11,Large
+Consumer Discretionary,NKE,"NIKE, Inc.",90.54B,90540000000,Large
+Consumer Discretionary,HMC,"Honda Motor Co., Ltd.",43.64B,43640000000,Large
+Consumer Discretionary,WSM,"Williams-Sonoma, Inc.",20.16B,20160000000,Large
+Consumer Discretionary,DKNG,DraftKings Inc.,17.85B,17850000000,Large
+Consumer Discretionary,CAVA,"CAVA Group, Inc.",9.51B,9510000000,Medium
+Consumer Discretionary,FIVE,"Five Below, Inc.",6.39B,6390000000,Medium
+Consumer Discretionary,FUN,Six Flags Entertainment Corporation,3.49B,3490000000,Medium
+Consumer Discretionary,LOT,Lotus Technology Inc.,1.43B,1430000000,Small
+Consumer Discretionary,REAL,"The RealReal, Inc.",644.64M,644640000,Small
+Consumer Discretionary,FNKO,"Funko, Inc.",222.49M,222490000,Small
+Materials,BHP,BHP Group Limited,124.80B,1.248E+11,Large
+Materials,SHW,The Sherwin-Williams Company,88.76B,88760000000,Large
+Materials,X,United States Steel Corporation,12.03B,12030000000,Large
+Materials,RGLD,"Royal Gold, Inc.",11.85B,11850000000,Large
+Materials,TFPM,Triple Flag Precious Metals Corp.,4.39B,4390000000,Medium
+Materials,CDE,"Coeur Mining, Inc.",5.21B,5210000000,Medium
+Materials,KWR,Quaker Chemical Corporation,1.94B,1940000000,Small
+Materials,CLMT,"Calumet, Inc.",1.26B,1260000000,Small
+Materials,REX,REX American Resources Corporation,672.94M,672940000,Small
+Materials,USAS,Americas Gold and Silver Corporation,396.49M,396490000,Small
+Real Estate,WELL,Welltower Inc.,100.06B,1.0006E+11,Large
+Real Estate,SPG,"Simon Property Group, Inc.",61.45B,61450000000,Large
+Real Estate,MAA,"Mid-America Apartment Communities, Inc.",18.64B,18640000000,Large
+Real Estate,GLPI,"Gaming and Leisure Properties, Inc.",13.12B,13120000000,Large
+Real Estate,LAMR,Lamar Advertising Company,12.02B,12020000000,Large
+Real Estate,NSA,National Storage Affiliates Trust,4.35B,4350000000,Medium
+Real Estate,NHI,"National Health Investors, Inc.",3.39B,3390000000,Medium
+Real Estate,UE,Urban Edge Properties,2.42B,2420000000,Medium
+Real Estate,LADR,Ladder Capital Corp,1.35B,1350000000,Small
+Real Estate,CSR,Centerspace,1.12B,1120000000,Small
+Real Estate,MFA,"MFA Financial, Inc.",968.02M,968020000,Small
+Energy,XOM,Exxon Mobil Corporation,442.04B,4.4204E+11,Large
+Energy,KMI,"Kinder Morgan, Inc.",61.93B,61930000000,Large
+Energy,PSX,Phillips 66,46.52B,46520000000,Large
+Energy,KNTK,Kinetik Holdings Inc.,7.14B,7140000000,Medium
+Energy,CHX,ChampionX Corporation,4.69B,4690000000,Medium
+Energy,GPOR,Gulfport Energy Corporation,3.46B,3460000000,Medium
+Energy,SEI,"Solaris Energy Infrastructure, Inc.",1.87B,1870000000,Small
+Energy,NRP,Natural Resource Partners L.P.,1.28B,1280000000,Small
+Energy,DEC,Diversified Energy Company PLC,1.15B,1150000000,Small
+Communication Services,GOOGL,Alphabet Inc.,"2,076.26B",2.07626E+12,Large
+Communication Services,META,"Meta Platforms, Inc.","1,616.16B",1.61616E+12,Large
+Communication Services,RBLX,Roblox Corporation,57.55B,57550000000,Large
+Communication Services,TME,Tencent Music Entertainment Group,27.63B,27630000000,Large
+Communication Services,FWONA,Formula One Group,23.59B,23590000000,Large
+Communication Services,Z,"Zillow Group, Inc.",16.17B,16170000000,Large
+Communication Services,NYT,The New York Times Company,9.17B,9170000000,Medium
+Communication Services,USM,United States Cellular Corporation,5.27B,5270000000,Medium
+Communication Services,BATRA,"Atlanta Braves Holdings, Inc.",2.57B,2570000000,Medium
+Communication Services,IMAX,IMAX Corporation,1.49B,1490000000,Small
+Communication Services,IHRT,"iHeartMedia, Inc.",205.25M,205250000,Small
+Communication Services,BZFD,"BuzzFeed, Inc.",85.53M,85530000,Small
+Consumer Staples,WMT,Walmart Inc.,780.89B,7.8089E+11,Large
+Consumer Staples,KO,The Coca-Cola Company,307.54B,3.0754E+11,Large
+Consumer Staples,SYY,Sysco Corporation,34.92B,34920000000,Large
+Consumer Staples,DG,Dollar General Corporation,21.31B,21310000000,Large
+Consumer Staples,ELF,"e.l.f. Beauty, Inc.",6.31B,6310000000,Medium
+Consumer Staples,PSMT,"PriceSmart, Inc.",3.20B,3200000000,Medium
+Consumer Staples,STRA,"Strategic Education, Inc.",2.16B,2160000000,Medium
+Consumer Staples,UTZ,"Utz Brands, Inc.",1.86B,1860000000,Small
+Consumer Staples,VITL,"Vital Farms, Inc.",1.42B,1420000000,Small
+Consumer Staples,AVO,"Mission Produce, Inc.",775.39M,775390000,Small
+Consumer Staples,SKIL,Skillsoft Corp.,169.58M,169580000,Small
+Utilities,NEE,"NextEra Energy, Inc.",141.74B,1.4174E+11,Large
+Utilities,NGG,National Grid plc,70.72B,70720000000,Large
+Utilities,AWK,"American Water Works Company, Inc.",27.63B,27630000000,Large
+Utilities,BIP,Brookfield Infrastructure Partners L.P.,15.48B,15480000000,Large
+Utilities,AES,The AES Corporation,7.14B,7140000000,Medium
+Utilities,ORA,"Ormat Technologies, Inc.",4.46B,4460000000,Medium
+Utilities,AVA,Avista Corporation,3.09B,3090000000,Medium
+Utilities,OPAL,OPAL Fuels Inc.,631.07M,631070000,Small
+Utilities,CREG,Smart Powerr Corp.,17.37M,17370000,Small
+Utilities,GCO,"RGC Resources, Inc.",212.52M,212520000,Small
